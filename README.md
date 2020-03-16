@@ -23,7 +23,7 @@ lastweights = {     "XBT":0.5, "ZAR":0.5 }
 Install dependencies:
 
 ```
-pip install python-binance
+pip install luno-python
 ```
 Run the script (it will automatically re-balance for you every hour):
 
